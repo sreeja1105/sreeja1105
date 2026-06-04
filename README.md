@@ -10,6 +10,7 @@ Full-stack engineer with 3+ years of professional experience building scalable d
 ## Featured Projects
 
 - **AI Analytics Assistant** — LLM-powered analytics dashboard for business insights. Uses Streamlit, Plotly, and OpenAI to answer natural language questions over sales data. [Repo](https://github.com/sreeja1105/ai-analytics-assistant)
+- **Sales Forecasting Dashboard** — time-series revenue forecasting dashboard with Streamlit, regression modeling, and interactive business trend visualizations. [Repo](https://github.com/sreeja1105/sales-forecasting-dashboard)
 - **DAXGenie** — AI-driven DAX formula assistant for Power BI analysts with Streamlit frontend, FastAPI backend, and Google Gemini LLM integration. [Repo](https://github.com/sreeja1105/daxgenie)
 
 ## Professional Experience
