@@ -8,8 +8,8 @@ Munich, Germany
 Data engineering professional with 3+ years of experience building scalable data pipelines, analytics dashboards, and backend systems. Currently focused on bridging analytics and software engineering: designing ETL workflows, optimizing database performance, and building APIs that power business intelligence applications.
 
 **Professional Background:**
-- IABG (5+ years in defense/aerospace analytics)
-- Brillio (2+ years in enterprise data solutions)
+- IABG (2 years in defense/aerospace analytics)
+- Brillio (1 year in enterprise data solutions)
 - Microsoft Certified Power BI Data Analyst (PL-300)
 - Master's in Business Analytics and Data Science
 
