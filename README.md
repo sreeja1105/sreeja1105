@@ -64,19 +64,21 @@ New Horizon College of Engineering, Bangalore, India | August 2018 – June 2022
 
 ## Projects
 
+This showcase section highlights portfolio work that blends AI, analytics, and business value.
+
+### AI Analytics Assistant
+**LLM-enhanced analytics assistant for business insights**
+Streamlit-based project that loads sales data, visualizes trends, and answers business questions using an LLM. Demonstrates AI-assisted analytics, natural language insights, interactive dashboards, and productized delivery.
+
+**Tech:** Python, Streamlit, OpenAI, Plotly  
+**Repo:** [sreeja1105/ai-analytics-assistant](https://github.com/sreeja1105/ai-analytics-assistant)
+
 ### DAXGenie
 **AI-powered DAX formula assistant for Power BI analysts**
 Full-stack application: Streamlit UI + FastAPI backend + Google Gemini LLM integration. Features API authentication, per-key rate limiting, unit tests, docker-compose deployment, and GitHub Actions CI.
 
-**Tech:** Python, FastAPI, Streamlit, Google Generativeai, Docker, GitHub Actions  
+**Tech:** Python, FastAPI, Streamlit, Google GenerativeAI, Docker, GitHub Actions  
 **Live:** [sreeja1105/daxgenie](https://github.com/sreeja1105/daxgenie)
-
-### AI Analytics Assistant
-**LLM-enhanced analytics assistant for business insights**
-Streamlit-based project that loads sales data, visualizes trends, and answers business questions using an LLM. Demonstrates AI-assisted analytics, natural language insights, and modern data storytelling.
-
-**Tech:** Python, Streamlit, OpenAI, Plotly  
-**Repo:** [sreeja1105/ai-analytics-assistant](https://github.com/sreeja1105/ai-analytics-assistant)
 
 ### Data Analytics Dashboard
 **KPI dashboard with ETL and statistical analysis**
