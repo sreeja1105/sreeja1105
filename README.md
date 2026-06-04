@@ -71,6 +71,13 @@ Full-stack application: Streamlit UI + FastAPI backend + Google Gemini LLM integ
 **Tech:** Python, FastAPI, Streamlit, Google Generativeai, Docker, GitHub Actions  
 **Live:** [sreeja1105/daxgenie](https://github.com/sreeja1105/daxgenie)
 
+### AI Analytics Assistant
+**LLM-enhanced analytics assistant for business insights**
+Streamlit-based project that loads sales data, visualizes trends, and answers business questions using an LLM. Demonstrates AI-assisted analytics, natural language insights, and modern data storytelling.
+
+**Tech:** Python, Streamlit, OpenAI, Plotly  
+**Repo:** [sreeja1105/ai-analytics-assistant](https://github.com/sreeja1105/ai-analytics-assistant)
+
 ### Data Analytics Dashboard
 **KPI dashboard with ETL and statistical analysis**
 Multi-source data aggregation, Power BI visualization, SQL ETL pipeline, stakeholder reporting.
