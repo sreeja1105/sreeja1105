@@ -7,6 +7,11 @@ Munich, Germany | +49 15560106343 | kothasreeja1105@gmail.com
 
 Full-stack engineer with 3+ years of professional experience building scalable data pipelines, LLM-integrated applications, and analytics dashboards. Currently completing Master's in Business Analytics & Data Science at EU Business School with thesis focus on LLMs and agentic workflows. Skilled in Python, FastAPI, React, Power BI, and modern cloud platforms (Azure, GCP, AWS). Experienced in end-to-end ownership, AI-assisted development, and cross-functional collaboration.
 
+## Featured Projects
+
+- **AI Analytics Assistant** — LLM-powered analytics dashboard for business insights. Uses Streamlit, Plotly, and OpenAI to answer natural language questions over sales data. [Repo](https://github.com/sreeja1105/ai-analytics-assistant)
+- **DAXGenie** — AI-driven DAX formula assistant for Power BI analysts with Streamlit frontend, FastAPI backend, and Google Gemini LLM integration. [Repo](https://github.com/sreeja1105/daxgenie)
+
 ## Professional Experience
 
 ### Master's Thesis & Research | IABG mbH, Munich
